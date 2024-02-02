@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+https://mati.smallhost.pl/,300,1718,1291,3718,7546,8951,47,9748,0.000%,21.54553,6.33,3.58
+youtube.com,300,6864,7357,10300,10769,11743,706,15280,2.333%,14.77541,6273.29,2.98
+TOTAL,600,4291,2710,9182,10300,11240,47,15280,1.167%,29.45219,6256.68,5.42
